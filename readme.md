@@ -12,8 +12,12 @@ The Modules are created using KiCAD but would transfer fairly straightforward to
 
 The modules are usually for a specific function and we're trying to keep them into categories so it's easier to fingure out the blocks you need. the following list is the categories of modules so far
 
-1. [Power blocks](powerBlocks.md)
+1. [Power supply](powersupply/powersupply.md)
 
-2. [Signal conditioning](signalConditioning.md)
+2. [Signal conditioning](signalConditioning/signalConditioning.md)
 
-3. [Special functions](specialFunctions.md)
+3. Lights and displays
+
+4. Power Controls
+
+5. [Special functions](specialFunctions/specialFunctions.md)
