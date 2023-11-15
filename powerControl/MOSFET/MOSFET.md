@@ -12,7 +12,7 @@ The Nmos is easier to operate since logically it's more intuitive. the PMOS requ
 
 ### NMOS
 
-![NMOS](C:\Users\hp\Desktop\Iceland%20fablab\Modules\Documentation\powerControl\MOSFET\NMOS.png)
+![](NMOS.png "NMOS module")
 
 ###### Observe the following
 
