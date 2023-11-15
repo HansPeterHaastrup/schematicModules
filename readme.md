@@ -14,6 +14,6 @@ The modules are usually for a specific function and we're trying to keep them in
 
 1. [Power blocks](powerBlocks.md)
 
-2. Signal conditioning
+2. [Signal conditioning](signalConditioning.md)
 
-3. Special functions
+3. [Special functions](specialFunctions.md)
