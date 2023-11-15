@@ -24,8 +24,6 @@ The Nmos is easier to operate since logically it's more intuitive. the PMOS requ
 
 * There is a 'body-diode' which is a side-effect of how a MOSFET works (see the small symbol inside the transistor). this diode allows a reverse current to flow from GND towards the supply if there is any.
 
-
-
 ### PMOS
 
 ![](PMOS.png "PMOS module")
