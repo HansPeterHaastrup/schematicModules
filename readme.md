@@ -12,7 +12,7 @@ The Modules are created using KiCAD but would transfer fairly straightforward to
 
 The modules are usually for a specific function and we're trying to keep them into categories so it's easier to fingure out the blocks you need. the following list is the categories of modules so far
 
-1. [Power supply](powersupply/powerSupply.md)
+1. [Power supply](powerSupply/powerSupply.md)
 
 2. [Signal conditioning](signalConditioning/signalConditioning.md)
 
