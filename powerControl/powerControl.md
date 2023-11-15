@@ -4,8 +4,8 @@ Controlling small things is no fun. Here's a list of modules that let you play w
 
 * Relay
 
-* MOSFET (N & P variants)
+* [MOSFET](MOSFET/MOSFET.md) (N & P variants)
 
-* Motor driver
+* Motor driver (H-bridge)
 
-* 
+
