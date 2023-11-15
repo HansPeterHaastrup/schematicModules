@@ -2,7 +2,7 @@
 
 * [Rectifier](rectifier/rectifier.md) - for turning AC voltage into DC voltage
 
-* [Regulator](LDOLDO.md) (LDO) - for turning a DC voltage into a lower voltage
+* [Regulator](LDO/LDO.md) (LDO) - for turning a DC voltage into a lower voltage
 
 * [Switching regulator](switchingRegulator/switchingRegulator.md) (Buck) - Same as the LDO but more efficient
 
